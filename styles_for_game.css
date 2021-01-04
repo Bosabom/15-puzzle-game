@@ -1,0 +1,43 @@
+#nmoves
+{
+  margin-left: 41%;
+}
+#rules
+{
+  position: relative;
+  margin-top: 250px;
+  margin-left: 510px;
+}
+#table{
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  }
+.tile {
+  width: 60px;
+  height: 60px;
+  border: 2px solid #222;
+  text-align: center;
+  background-color: rgb(108, 214, 108);  
+  color: #000;
+  font-weight: bold;
+  cursor: pointer;
+  }
+.blank {
+  width: 60px;
+  height: 60px;
+  text-align: center;
+  }
+ #newGame
+ {
+  position: absolute;
+  margin-left: 46%;
+ }           
+#moves {
+ border: 1px solid #222;
+ font-weight: bold;
+ padding: 2px 5px;
+ color: #000;
+ margin-left: 41%;
+  }
